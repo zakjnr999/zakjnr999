@@ -46,7 +46,7 @@ My work focuses on:
 
 ### Mobile
 
-`Flutter` · `Dart` · `Provider` · `MVVM`
+`Flutter` · `Dart` · `Provider` · `Riverpod`· `Clean Architecture` · `MVVM`
 
 ### Backend
 
