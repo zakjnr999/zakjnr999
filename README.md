@@ -62,7 +62,7 @@ My work focuses on:
 
 ### Cloud and Developer Tools
 
-`AWS` · `Vercel` · `Git` · `GitHub Actions`
+`AWS` · `Vercel` · `Git` · `Render` · `Cloudflare` · `GitHub Actions`
 
 ## Selected Projects
 
