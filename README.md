@@ -56,14 +56,6 @@ My work focuses on:
 
 `AWS` · `Vercel` · `Git` · `Render` · `Cloudflare` · `GitHub Actions`
 
-## GitHub Activity
-
-<div align="center">
-
-[![Muktar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zakjnr999&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ## Selected Projects
 
 ### GrabGo
