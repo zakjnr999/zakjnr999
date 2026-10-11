@@ -90,17 +90,6 @@ The platform provides practice questions, timed quizzes, performance analytics, 
 
 ---
 
-### SupportFlow Visual Builder
-
-A browser-based visual workflow builder for creating and managing customer-support decision trees through an interactive node-based interface.
-
-It supports workflow nodes, connections, canvas navigation, zoom controls, minimaps, and JSON import and export.
-
-**Role:** Frontend Developer
-**Technologies:** JavaScript, HTML, CSS and JSON
-
----
-
 ### CITSA Mobile
 
 A mobile platform developed to improve communication and student engagement within the Computer Science and Information Technology Students' Association.
