@@ -28,7 +28,7 @@ My work focuses on:
 
 ## Current Focus
 
-* Building and preparing **GrabGo** for launch
+* Building and scaling **GrabGo**, a multi-platform delivery ecosystem
 * Developing reliable and maintainable Flutter applications
 * Designing secure and scalable backend APIs
 * Improving application performance, testing, and deployment workflows
@@ -36,17 +36,9 @@ My work focuses on:
 
 ## Core Technologies
 
-## GitHub Activity
-
-<div align="center">
-
-[![Muktar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zakjnr999\&theme=github-compact\&hide_border=true\&area=true\&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ### Mobile
 
-`Flutter` · `Dart` · `Provider` · `Riverpod`· `Clean Architecture` · `MVVM`
+`Flutter` · `Dart` · `Provider` · `Riverpod` · `Clean Architecture` · `MVVM`
 
 ### Backend
 
@@ -64,17 +56,54 @@ My work focuses on:
 
 `AWS` · `Vercel` · `Git` · `Render` · `Cloudflare` · `GitHub Actions`
 
+## GitHub Activity
+
+<div align="center">
+
+[![Muktar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zakjnr999&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 ## Selected Projects
 
 ### GrabGo
 
 A multi-platform delivery ecosystem designed to connect customers, vendors, and delivery riders for food, parcel, and errand deliveries.
 
-The platform includes dedicated customer, rider, vendor, and administrative applications with real-time order management, delivery tracking, payments, notifications, and operational analytics.
+The platform includes dedicated customer, rider, and vendor mobile applications, an administrative dashboard, and backend services. Features include real-time order management, delivery tracking, payments, notifications, and operational analytics.
 
-**Role:** CTO and Lead Engineer
-**Technologies:** Flutter, Node.js, Express.js, PostgreSQL, MongoDB, Prisma, Redis and Socket.IO
+**Role:** CTO and Lead Engineer  
+**Technologies:** Flutter, Node.js, Express.js, PostgreSQL, MongoDB, Prisma, Redis and Socket.IO  
 **Source:** Private repository
+
+#### Application Links
+
+**GrabGo Customer App**
+
+- [Apple App Store](https://apps.apple.com/us/app/grabgo-ghana-food-more/id6798798727)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.grabgo.customer)
+
+**GrabGo Rider App**
+
+- [Apple App Store](https://apps.apple.com/gh/app/grabgo-rider-gorider/id6797717228)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.grabgo.rider)
+
+**GrabGo Vendor App**
+
+- [Apple App Store](https://apps.apple.com/gh/app/grabgo-vendor-govendor/id6797361434)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.grabgo.vendor)
+
+#### Test Accounts
+
+Use the following credentials to test the respective applications, provided the accounts remain active.
+
+| Application | Phone Number | OTP |
+|---|---|---|
+| Customer | `0240000001` | `123456` |
+| Rider | `0240000002` | `123456` |
+| Vendor | `0240000011` | `123456` |
+
+> **Security note:** These credentials are published in this README. Ensure they are dedicated demo accounts with no access to real customer data, financial transactions, vendor payouts, or administrative privileges.
 
 ---
 
@@ -84,8 +113,8 @@ A medical examination preparation platform built for Ghanaian medical students.
 
 The platform provides practice questions, timed quizzes, performance analytics, bookmarks, and offline study tools to help students prepare more effectively.
 
-**Role:** Mobile Application Developer
-**Technologies:** Flutter, Dart and local data persistence
+**Role:** Mobile Application Developer  
+**Technologies:** Flutter, Dart and local data persistence  
 **Source:** Private repository
 
 ---
@@ -96,8 +125,8 @@ A mobile platform developed to improve communication and student engagement with
 
 The application includes authentication, announcements, content feeds, reactions, comments, replies, schedules, and notification features.
 
-**Role:** Mobile Development Lead
-**Technologies:** Flutter, Dart, REST APIs and local caching
+**Role:** Mobile Development Lead  
+**Technologies:** Flutter, Dart, REST APIs and local caching  
 **Source:** Private repository
 
 ---
@@ -108,9 +137,11 @@ A mobile hostel-booking platform designed to help students discover, compare, an
 
 The application provides hostel listings, room details, pricing information, availability, booking requests, and account management, creating a simpler connection between students and hostel operators.
 
-**Role:** Mobile Application Developer
-**Technologies:** Flutter, Dart, Node.js, Express.js and PostgreSQL
+**Role:** Mobile Application Developer  
+**Technologies:** Flutter, Dart, Node.js, Express.js and PostgreSQL  
 **Source:** Private repository
+
+---
 
 > Most of my production work is maintained in private repositories. Public projects and technical experiments are available in the pinned repositories below.
 
