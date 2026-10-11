@@ -107,7 +107,7 @@ Use the following credentials to test the respective applications, provided the 
 
 ---
 
-### MedAID
+### Prepaid
 
 A medical examination preparation platform built for Ghanaian medical students.
 
@@ -116,6 +116,11 @@ The platform provides practice questions, timed quizzes, performance analytics, 
 **Role:** Mobile Application Developer  
 **Technologies:** Flutter, Dart and local data persistence  
 **Source:** Private repository
+
+#### Application Links
+
+- [Apple App Store](https://apps.apple.com/us/app/prepaid-gh-student-prep-guide/id6790536015)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.prepaid.app)
 
 ---
 
