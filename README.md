@@ -123,19 +123,6 @@ The application provides hostel listings, room details, pricing information, ava
 **Technologies:** Flutter, Dart, Node.js, Express.js and PostgreSQL
 **Source:** Private repository
 
----
-
-### Adie3yie Website
-
-A modern and responsive fashion website created to showcase the Adie3yie brand, its clothing collections, services, and contact information.
-
-The website features a clean visual identity, responsive layouts, product and service presentation, social media integration, and an accessible contact experience across mobile and desktop devices.
-
-**Role:** Web Developer
-**Technologies:** Next.js, TypeScript, Tailwind CSS and Vercel
-**Live Website:** https://fashion-web-ebon.vercel.app/
-
-
 > Most of my production work is maintained in private repositories. Public projects and technical experiments are available in the pinned repositories below.
 
 ## What I Value
