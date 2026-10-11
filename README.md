@@ -146,6 +146,10 @@ The application provides hostel listings, room details, pricing information, ava
 **Technologies:** Flutter, Dart, Node.js, Express.js and PostgreSQL  
 **Source:** Private repository
 
+#### Application Links
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.molaestateagency.molaapp)
+
 ---
 
 > Most of my production work is maintained in private repositories. Public projects and technical experiments are available in the pinned repositories below.
